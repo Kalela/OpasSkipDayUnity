@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4f4388b7fea231045b341f5fc29d7b4e
+timeCreated: 1503996815
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amatica SC
+  fontNames:
+  - Amatica SC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

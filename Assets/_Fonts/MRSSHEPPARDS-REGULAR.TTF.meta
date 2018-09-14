@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1b75d6eedb269424baabd10157fba76c
+timeCreated: 1502794766
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs Sheppards
+  fontNames:
+  - Mrs Sheppards
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

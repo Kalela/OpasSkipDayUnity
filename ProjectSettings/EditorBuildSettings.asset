@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Start Screen.unity
+    guid: d8429d0c1b782f54687aeeef854327ba
+  - enabled: 1
+    path: Assets/_Scenes/Main Story/prototype.unity
+    guid: 15cd139345b997e418a97742619d7e93
+  - enabled: 1
+    path: Assets/_Scenes/Main Story/Loading.unity
+    guid: fcbc4d5a341c66748aff24c007334b4a
+  - enabled: 1
+    path: Assets/_Scenes/Main Story/prototype level 2.unity
+    guid: 277a8e078dbfa8148aa9dc6343b3fa95
+  - enabled: 1
+    path: Assets/_Scenes/Casual Modes/base screen.unity
+    guid: e9cdcf345add6514a92ea1f95d6ae9df
+  - enabled: 1
+    path: Assets/_Scenes/Casual Modes/endless 1.5 prototype.unity
+    guid: a80b273aab493474e9b8bd653290cec6
+  - enabled: 1
+    path: Assets/_Scenes/Casual Modes/swim god endless tap score.unity
+    guid: dd5c93d1393d16048951ab7ad5129e66
+  - enabled: 1
+    path: Assets/_Scenes/Main Story/prototype level 3.unity
+    guid: 25fc89b870fca9e4fa422354d7837343
